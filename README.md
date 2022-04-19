@@ -1,5 +1,5 @@
 # Bem vindo!! 👋
-#### Um amante da tecnologia e estudante de engenharia da computação no Senai Cimatec, Salvador-BA. 
+#### Um amante da tecnologia e estudante de engenharia da computação no Senai Cimatec. 
 
 #### Atualmente estagio na área de desenvolvimento web também no Senai Cimatec.
 
