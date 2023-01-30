@@ -1,7 +1,7 @@
 # Bem vindo!! 👋
 #### Um amante da tecnologia e estudante de engenharia da computação no Senai Cimatec. 
 
-#### Desenvolvedor Back-end Júnior na WTF
+#### Desenvolvedor Back-end na WTF
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/joaohbmenezes/)
 ## ⚡Ferramentas e Tecnologias
