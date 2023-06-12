@@ -1,10 +1,10 @@
-# Bem vindo!! 👋
+# Welcome!! 👋
 #### Passionate about back-end development, self-taught and focused on continuous improvement while searching for new challenges
 
 #### Back-end Developer at Welcome The Future
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/joaohbmenezes/)
-## ⚡Ferramentas e Tecnologias
+## ⚡Technologies
 <div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50"/>
@@ -15,11 +15,8 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width="50" height="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" width="50" height="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50"/>
-</div>
-
-## 📖 Estou aprendendo
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width='45px'/>
-
+</div>
 <!--
 **HumbertoCP/HumbertoCP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
