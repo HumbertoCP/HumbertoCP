@@ -1,7 +1,7 @@
 # Bem vindo!! 👋
-#### Um amante da tecnologia e estudante de engenharia da computação no Senai Cimatec. 
+#### Passionate about back-end development, self-taught and focused on continuous improvement while searching for new challenges
 
-#### Desenvolvedor Back-end na WTF
+#### Back-end Developer at Welcome The Future
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/joaohbmenezes/)
 ## ⚡Ferramentas e Tecnologias
